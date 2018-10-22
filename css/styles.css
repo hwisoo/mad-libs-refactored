@@ -1,0 +1,17 @@
+h4 {
+  display: none;
+}
+h3 {
+  font-size: 15px;
+}
+body {
+  font-family: monospace;
+}
+
+h1 {
+  font-style: oblique;
+}
+
+#story {
+  display: none;
+}
